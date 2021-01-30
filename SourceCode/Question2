@@ -1,4 +1,5 @@
-#Q2
+#Question 2
+
 nonNegativeNumber = int(input("Enter a number: ")) #Getting user input for a number.
 noOfSteps = 0 #Initial number of steps.
 

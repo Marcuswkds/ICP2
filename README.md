@@ -22,9 +22,4 @@ print(feetHeights) #Prints the list of students height in feet to the user.
 print(cmHeights) #Prints the list of students height in cm to the user.
 
 
-
-
-
-
-
 Video Link: https://umkc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da9c75b0-ba29-403a-bb60-acc000578cac

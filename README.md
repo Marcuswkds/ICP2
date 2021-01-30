@@ -11,6 +11,7 @@ Mwbwg@mail.umkc.edu
 Description of ICP: Learning how to use lists, loops, open and read through input files and store information back to the file.
 
 #Question 1 Code
-file:///C:/Users/Kendi/Documents/PycharmProjects/ICP2/Question1CODESS.png
+![image](https://user-images.githubusercontent.com/72952948/106348835-eada8680-628e-11eb-8ef7-0e8dc2ac17bc.png)
+
 
 Video Link: https://umkc.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=da9c75b0-ba29-403a-bb60-acc000578cac

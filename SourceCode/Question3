@@ -1,4 +1,4 @@
-#Q3
+#Question 3
 import sys
 text = open("myFile.txt", "r") #Opens the input file named "myFile.txt" and reads it.
 
